@@ -1,0 +1,41 @@
+.judul{
+    text-align: center;
+    padding: 2%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-title {
+    font-size: 30px;
+    padding-bottom: 10%;
+    font-weight: bold;
+}
+
+.card {
+    border:3px solid gray;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.buttons:hover{
+    background-color: green;
+}
+
+.buttons{
+    background-color: green;
+    width: 600px !important;
+}
+
+.cancel:hover{
+    background-color: rgb(216, 54, 48);
+}
+
+.cancel{
+    background-color: rgb(216, 54, 48);
+}
+
+.form-group{
+    padding-top: 2%;
+}
