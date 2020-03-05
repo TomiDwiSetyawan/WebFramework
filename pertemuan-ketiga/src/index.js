@@ -7,6 +7,7 @@ import * as serviceWorker from './serviceWorker';
 import HelloComponent from './component/HelloComponent';
 import StateFullComponent from './container/StateFullComponent';
 import TugasComponent from './component/TugasComponent';
+import BlogPost from './container/BlogPost/BlogPost';
 // import TugasState from './container/TugasState';
 
 // function HelloWorld() {
@@ -29,7 +30,7 @@ import TugasComponent from './component/TugasComponent';
 //     }
 // }
 
-ReactDOM.render(<TugasComponent />, document.getElementById('root'));
+ReactDOM.render(<BlogPost />, document.getElementById('content'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
