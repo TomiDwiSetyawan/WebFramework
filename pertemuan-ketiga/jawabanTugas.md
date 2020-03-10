@@ -38,4 +38,4 @@ d.  fungsi componentDidMount()
 
 a. Data pada file listArtikel.json akan bertambah jika melakukan penambahan data
 
-b. Karena pada dasarnya data terbaru disimpan paling bawah
+b. Karena pada dasarnya data terbaru disimpan paling bawah 
