@@ -28,11 +28,9 @@ a. Daftar artikel terhapus sesuai dari data yang dihapus jika saya melakukan kli
 
 b. Data dari file listArtikel.json akan berkurang karena sudah melakukan klik tombol delete
 
-c.
+c. Untuk mengambil data sesuai idnya lalu dilakukan method delete
 
-d.  fungsi componentDidMount()
-    
-    fungsi componentDidMount()
+d.  API yang diambil memiliki sumber data yang berbeda, yang satunya di jsonplaceholder, sedangkan satunya berada di local dengan sumber data listArtikel.json
 
 ## Pertanyaan Praktikum 4
 
