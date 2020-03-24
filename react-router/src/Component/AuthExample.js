@@ -32,7 +32,7 @@ export default function AuthExample() {
                         <LoginPage />
                     </Route>
                     <PrivateRoute path="/private">
-                        <PublicPage />
+                        <ProtectedPage />
                     </PrivateRoute>
                 </Switch>
             </div>

@@ -10,7 +10,7 @@ import NestingExmple from './Component/NestingExmple';
 import AuthExample from './Component/AuthExample';
 import Tugas from './Component/Tugas';
 
-ReactDOM.render(<Tugas />, document.getElementById('root'));
+ReactDOM.render(<AuthExample />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
